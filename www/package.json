@@ -20,7 +20,7 @@
     "glamor": "^2.20.40",
     "gzip-size": "^5.0.0",
     "html2canvas": "file:../",
-    "mkdirp": "^0.5.1",
+    "mkdirp": "^0.5.5",
     "prismjs": "^1.16.0",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
